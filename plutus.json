@@ -1,0 +1,10 @@
+{
+  "preamble": {
+    "title": "howellad/new-project",
+    "description": "Aiken contracts for project 'howellad/new-project'",
+    "version": "0.0.0",
+    "plutusVersion": "v2",
+    "license": "Apache-2.0"
+  },
+  "validators": []
+}

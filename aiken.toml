@@ -1,0 +1,14 @@
+name = "howellad/new-project"
+version = "0.0.0"
+license = "Apache-2.0"
+description = "Aiken contracts for project 'howellad/new-project'"
+
+[repository]
+user = "howellad"
+project = "new-project"
+platform = "github"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "main"
+source = "github"
